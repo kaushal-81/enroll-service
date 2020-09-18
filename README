@@ -3,6 +3,8 @@ http://localhost:8080/swagger-ui.html#
 
 ## Junit5 test cases also added
 
+## Mysql table create scripts also added
+
 ## Api's overview
 Api 1:Api to add a new enrollee
 
@@ -92,3 +94,5 @@ Body:
   
  Response:
  Modified existing dependents successfully
+ Api 7:  Get api to fetch all the enrollees.
+ Url:http://localhost:8080/enroll/getEnrollees
